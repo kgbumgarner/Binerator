@@ -6,5 +6,7 @@ This is very a much a work in progress!!
 
 
 *** When working make sure node.js is installed ***
-Run: npm install
-To test: npm run dev
+
+<br>Run: npm install 
+
+<br>To test: npm run dev
