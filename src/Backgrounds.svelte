@@ -30,8 +30,29 @@
 </main>
 
 <style>
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+:root {
+    --bs: 0.25em 0.25em 0.75em rgba(0, 0, 0, 0.25),
+    0.125em 0.125em 0.25em rgba(0,0,0,.15);
+}
     .image-container {
         max-height: 396px;
+        max-width: 1400px;
         overflow: hidden;
+        box-shadow: var(--bs);
+        border: #E7E5E5 solid 4px;
+    }
+
+    main {
+      display: flex; 
+      flex-direction: column;
+      margin: auto;
+      align-items: center;
+      margin: 40px; 
     }
 </style>
