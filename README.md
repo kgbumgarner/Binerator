@@ -1,6 +1,6 @@
 # Binerator
 
-- Found at: https://binerator.netlify.app/
+Found at: https://binerator.netlify.app/ 🚀
 
 Randomly generate Linkedin Backgrounds - if you really can't decide. 
 This isn't a very pratical thing, but was fun to make. Maybe it will become something more exciting one day. 🍎
