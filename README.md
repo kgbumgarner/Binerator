@@ -8,7 +8,4 @@ This isn't a very pratical thing, but was fun to make. Maybe it will become some
 This is very a much a work in progress!!
 
 
-*** When working make sure node.js is installed ***
-- Run: npm install 
-- To test: npm run dev
 
